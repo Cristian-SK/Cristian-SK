@@ -1,9 +1,10 @@
 ## Hi, I'm Cristian 👋
 
-Computer Science graduate from Puerto Rico building real-word tools with Python.
-Last project I work on a small employee scheduling system (shifts, rules, petitions) with pandas + Excel.
-Currently growing into data science / machine learning projects.
-Opem to remote junior dev / support engineer / data roles.
+Computer Science graduate (Puerto Rico)
+• Python • Automation • Data •
+-Building an employee scheduling app + rile-based availability.
+-Currently growing into data science / machine learning projects.
+-Opem to remote junior dev / support engineer / data roles.
 <!--
 **Cristian-SK/Cristian-SK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
